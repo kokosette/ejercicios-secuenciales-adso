@@ -29,8 +29,25 @@ en un compilador en línea o en Visual Studio.
 | No | Ejercicio | Estado |
 
 |----|-----------|--------|
-
+PONER LOS NOMBRES DE LOS EJERCICIOS EN LO BLANCO
 | 01 | Intercambio con variable auxiliar | ✅ |
-
-| 02 | Intercambio sin variable auxiliar | ⏳ |
+| 02 | Intercambio sin variable auxiliar | ✅ |
+| 03 | PROMEDIO PONDERADO | ✅ |
+| 04 | RECTANGULO QUE CRECE | ⏳ |
+| 01 |         | ✅ |
+| 02 |         | ✅ |
+| 03 |           | ✅ |
+| 04 |           | ⏳ |
+| 01 |           | ✅ |
+| 02 |           | ✅ |
+| 03 |           | ✅ |
+| 04 |           | ⏳ |
+| 01 | Intercambio con variable auxiliar | ✅ |
+| 02 | Intercambio sin variable auxiliar | ✅ |
+| 03 | PROMEDIO PONDERADO | ✅ |
+| 04 | RECTANGULO QUE CRECE | ⏳ |
+| 01 | Intercambio con variable auxiliar | ✅ |
+| 02 | Intercambio sin variable auxiliar | ✅ |
+| 03 | PROMEDIO PONDERADO | ✅ |
+| 04 | RECTANGULO QUE CRECE | ⏳ |
 
