@@ -24,6 +24,10 @@ en un compilador en línea o en Visual Studio.
 
 
 
+NOTA: El ejercicio 1 y 2 quedó en un mismo commit por una equivocación que tuve
+
+
+
 \## Índice de ejercicios
 
 | No | Ejercicio | Estado |
